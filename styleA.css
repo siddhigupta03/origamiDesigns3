@@ -1,0 +1,19 @@
+body{
+    border: solid;
+}
+
+h3{
+    color: #f25000;
+    font-family: cursive;
+    font-size: 35px;
+}
+
+h1{
+    text-align: center;
+    color: currentColor;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+body{
+    background-color: #a94fbb7e;
+}

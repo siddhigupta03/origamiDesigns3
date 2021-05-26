@@ -1,0 +1,45 @@
+body {
+	margin: 0.5in;
+	padding: 0.5in;
+}
+body{
+    border: 20px solid;
+    background-color: #ec9ee6;
+}
+.header{
+    color: #000000;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline wavy #127eeb;
+    text-underline-position: under;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    color: rgb(53, 53, 3);
+}
+p {
+    border: solid black;
+    text-orientation: sideways;
+    font-size: 30px;
+}
+.item{
+    text-indent: 100px;
+    padding: 10px;
+    display:flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+.item, img{
+    border: 5px solid black;
+    border: radius 50px;
+}
+h2{
+    text-align: center;
+}
+
+.link{
+    display: flex;
+    justify-content: space-evenly;
+    border: solid;
+    background-color: rgb(225, 121, 140);
+}
